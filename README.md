@@ -4,7 +4,7 @@
 
 <div>
 <p float="center">
-  <img src="optionspanel.jpg" width="400" />
+  <img src="images/optionspanel.jpg" width="400" />
 </p>
 </div>
 
@@ -25,7 +25,7 @@
 
 <div>
 <p float="center">
-  <img src="scalefactor.jpg" width="350" />
+  <img src="images/scalefactor.jpg" width="350" />
 </p>
 </div>
 
