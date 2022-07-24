@@ -15,9 +15,9 @@
 
 <div>
 <p float="left">
-  <img src="images/WIN_20220724_16_13_48_Pro.jpg" width="450" />
-  <img src="images/WIN_20220724_16_15_16_Pro.jpg" width="450" />
-  <img src="images/WIN_20220724_16_14_53_Pro.jpg" width="450" />
+  <img src="images/nomask.jpg" width="450" />
+  <img src="images/halfmask.jpg" width="450" />
+  <img src="images/fullmask.jpg" width="450" />
 </p>
 </div>
 
